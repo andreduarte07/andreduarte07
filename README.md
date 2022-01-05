@@ -1,5 +1,14 @@
-### Hi there 👋
+# André Duarte
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreduarte07/)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:andre_vinicius1998@hotmail.com)](mailto:andre_vinicius1998@hotmail.com)
 ![andreduarte07](https://komarev.com/ghpvc/?username=andreduarte07&color=red)
+
+
+
+
+
 <!--
 **andreduarte07/andreduarte07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
