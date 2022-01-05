@@ -2,8 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreduarte07/)
-[![OutLook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:andre_vinicius1998@hotmail.com)
-![Discord](https://dcbadge.vercel.app/api/shield/251933412896669698?style=flat)
+[![OutLook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:andre_vinicius1998@hotmail.com)
+[![Discord](https://dcbadge.vercel.app/api/shield/251933412896669698?style=flat)](https://www.linkedin.com/in/andreduarte07/)
 ![andreduarte07](https://komarev.com/ghpvc/?username=andreduarte07&color=red)
 
 
