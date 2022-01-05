@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![andreduarte07](https://komarev.com/ghpvc/?username=andreduarte07&color=red)
 <!--
 **andreduarte07/andreduarte07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
